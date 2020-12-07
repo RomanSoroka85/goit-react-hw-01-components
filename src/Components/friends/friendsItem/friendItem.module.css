@@ -1,0 +1,29 @@
+.avatar{
+    width: 100px;
+    height: 150px;
+    border: 1px solid rgb(0, 255, 170);
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+.circles{
+width: 10px;
+display: block;
+height: 10px;
+border-radius: 50%;
+text-align: center;
+}
+.offline{
+    
+    background-color: crimson;
+    composes:circles;
+    
+   
+}
+.online{
+    
+    background-color: darkgreen;
+    composes:circles;
+}

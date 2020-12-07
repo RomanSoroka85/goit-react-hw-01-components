@@ -1,0 +1,28 @@
+.transactionHistory{
+    width: 550px;
+    text-align: center;
+    margin: 10px auto;
+    border: 3px solid rgb(0, 119, 255);
+    
+}
+.thead{
+    background-color: darkorchid;
+    color: rgb(23, 199, 111);
+    text-transform: uppercase;
+    height: 50px;
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.tbody{
+    text-transform: uppercase;
+    height: 50px;
+    font-size: 14px;
+    font-style: oblique;
+    }
+.white{
+    background-color: rgb(233, 216, 216);
+    }
+.gray{
+    background-color: rgb(207, 31, 31);
+    }

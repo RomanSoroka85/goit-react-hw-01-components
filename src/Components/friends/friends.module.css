@@ -1,0 +1,14 @@
+.list{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  list-style: none;
+  border: 3px solid rgb(234, 0, 255);
+  font-family: monospace;
+  margin: 20px auto ;
+  padding: 25px ;
+  
+  width: 500px;
+  
+
+}
